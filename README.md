@@ -1,4 +1,4 @@
-**Automating Infrastructure Deployment and Configuration Management: A Practical Guide to Terraform and Ansible on Azure**
+**Infrastructure Deployment and Configuration Management: A Practical Guide to Terraform and Ansible on Azure**
 
 **Outline:**
 
